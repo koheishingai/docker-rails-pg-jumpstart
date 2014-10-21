@@ -11,6 +11,6 @@ RUN \
   rails new app -d postgresql'
 
 ADD files/database.yml /home/action/app/config/database.yml
-RUN chown action:action /home/action/app/config/database.yml
+RUN chown -R action:action /home/action/app
 
 ADD files/initonce/0020-move-app-to-volume.sh /nitrous/initonce/0020-move-app-to-volume.sh
