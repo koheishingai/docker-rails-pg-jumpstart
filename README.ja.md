@@ -1,7 +1,7 @@
-Nitrous.IO - rails‚‘¬ƒXƒ^[ƒgƒRƒ“ƒeƒi[‚Ì‚½‚ß‚ÌDockerƒCƒ[ƒW‚Å‚·B
-5443ƒ|[ƒgg—p‚ÌPostgresƒRƒ“ƒeƒi[‚ğ•K—v‚Æ‚µ‚Ü‚·B
+Nitrous.IO - railsé«˜é€Ÿã‚¹ã‚¿ãƒ¼ãƒˆã‚³ãƒ³ãƒ†ãƒŠãƒ¼ã®ãŸã‚ã®Dockerã‚¤ãƒ¡ãƒ¼ã‚¸ã§ã™ã€‚
+5443ãƒãƒ¼ãƒˆä½¿ç”¨ã®Postgresã‚³ãƒ³ãƒ†ãƒŠãƒ¼ã‚’å¿…è¦ã¨ã—ã¾ã™ã€‚
 
-Às•û–@:
+å®Ÿè¡Œæ–¹æ³•:
 
 ```
 docker build -t nitrousio/rails-pg-jumpstart:latest .
@@ -12,8 +12,8 @@ docker ps <CID>
 ssh -p <port> action@<ip>
 ```
 
-ƒpƒXƒ[ƒh‚Æ`docker logs`ƒRƒ}ƒ“ƒh‚ğƒfƒBƒXƒvƒŒƒC‚É“ü—Í‚µ‚Ü‚·B
+ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã¨`docker logs`ã‚³ãƒãƒ³ãƒ‰ã‚’ãƒ‡ã‚£ã‚¹ãƒ—ãƒ¬ã‚¤ã«å…¥åŠ›ã—ã¾ã™ã€‚
 
-### ‚»‚Ì‘¼‚ÌŒ¾Œê
+### ãã®ä»–ã®è¨€èª
 
 [English](https://github.com/nitrous-io/autoparts/blob/master/README.md)

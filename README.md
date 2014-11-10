@@ -16,4 +16,4 @@ Enter the password `docker logs` command displays.
 
 ### Additional Languages
 
-[“ú–{Œê](https://github.com/nitrous-io/autoparts/blob/master/README.ja.md)
+[æ—¥æœ¬èªž](https://github.com/nitrous-io/autoparts/blob/master/README.ja.md)
