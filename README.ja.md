@@ -16,4 +16,4 @@ ssh -p <port> action@<ip>
 
 ### その他の言語
 
-[English](https://github.com/nitrous-io/autoparts/blob/master/README.md)
+[English](https://github.com/nitrous-io/docker-rails-pg-jumpstart/blob/master/README.md)

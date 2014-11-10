@@ -16,4 +16,4 @@ Enter the password `docker logs` command displays.
 
 ### Additional Languages
 
-[日本語](https://github.com/nitrous-io/autoparts/blob/master/README.ja.md)
+[日本語](https://github.com/nitrous-io/docker-rails-pg-jumpstart/blob/master/README.ja.md)
